@@ -6,7 +6,7 @@ Computer Engineer
 
 Recent alumna from WVU with a focus in computer engineering, I value continual learning in personal and professional development.
 
-*   🧠  I'm learning React and Scrimba.
+*   🧠  I'm learning Relational Databases, React, and Vite.
 *   🤝  I'm open to collaborating on open source.
 
 ### Skills 
